@@ -19,7 +19,9 @@ https://rickandmortyapi.com/api/episode
 https://drive.google.com/file/d/1Vt7U_8kWp3NXkm7czpGoSMAB7188MeH7/view?usp=sharing
 
 # Video de la Aplicación
+https://drive.google.com/file/d/1FbCxuFowYYjcESu1K3w9ZpwWmDNSfM1w/view?usp=sharing
 
+# Codigo en GitHub
 
 Domain
 com.magzin.apibabel.domain.core.RetrofitHelper
